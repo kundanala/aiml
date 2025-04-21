@@ -1,0 +1,2 @@
+python package :
+A Python package is a directory that contains one special file named __init__.py (that's two underscores before and after init).
