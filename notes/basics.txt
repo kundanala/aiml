@@ -1,0 +1,27 @@
+python package :
+A Python package is a directory that contains one special file named __init__.py (that's two underscores before and after init).
+
+list : [ ]
+set : { }
+tuple : ( )
+dictionary : { "a" : "", "b": 5}
+
+functions syntax
+def functionName : 
+
+if-else syntax
+if condition :
+    ----------
+else :
+    ----------
+
+for syntax
+for i in list :
+    ------------------
+
+while syntax
+
+i = 0;
+while i<10 :
+    -----------------
+

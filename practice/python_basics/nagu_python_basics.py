@@ -35,3 +35,9 @@ iter = 0;
 while iter<=5 :
     print(iter);
     iter=iter+1;
+
+# try-except
+try :
+    a = 10 /0 ;
+except ZeroDivisionError :
+    print('Cannot devide by zero!')
