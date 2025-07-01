@@ -1,6 +1,6 @@
 
 try:
-    with open("my_details.txt", "r") as file:
+    with open("details.txt", "r") as file:
         lines = file.readlines();
         for line in lines:
             print(line);
